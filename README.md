@@ -1,6 +1,6 @@
 # The best way to 'git' something is by practice!
 
-![Java CI](https://github.com/jtravan3/git-practice/workflows/Java%20CI/badge.svg)
+![Java CI](https://github.com/CitadelCS/git-practice/workflows/Java%20CI/badge.svg)
 
 ## Overview
 
